@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="テストの平均点を計算しよう">
-  <title>kadai_005</title>
+  <meta name="description" content="kadai_005">
+  <title>テストの平均点を計算しよう</title>
 </head>
 <body>
   <p>
